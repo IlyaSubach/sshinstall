@@ -3,5 +3,4 @@
 import os
 import time
 os.system('sudo apt-get install ssh -y')
-time.sleep(4)
 
